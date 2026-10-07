@@ -1,0 +1,16 @@
+.env
+.env.local
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+logs/
+runtime/
+credentials.json
+*.db
+*.sqlite
+*.csv
+*.xlsx
